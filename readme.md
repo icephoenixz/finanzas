@@ -6,6 +6,8 @@ Sistema de finanzas en Php (Laravel 5.4)
 - Framework: Laravel.
 - Base de datos: Mysql.
 
+https://www.youtube.com/watch?v=TE0naWh7E_s&list=PLVsoX1f7YHL3Br3-0xxbLZedcYKW1zCi5&index=11
+
 <p align="center"><a href="https://www.heavydeveloper.me/heavydevelopersignos.png" target="_blank">
 <img width="150" src="https://www.heavydeveloper.me/logo.png">
 </a>
